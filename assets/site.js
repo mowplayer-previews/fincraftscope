@@ -39,7 +39,7 @@
   }
   function loadFx() {
     var d = new Date(Date.now() - 35 * 864e5).toISOString().slice(0, 10);
-    return getJSON('https://api.frankfurter.app/' + d + '..?from=USD&to=' + FX.join(','), 'fcs_fx')
+    return getJSON('https://api.frankfurter.dev/v1/' + d + '..?from=USD&to=' + FX.join(','), 'fcs_fx')
       .then(function (res) {
         var days = Object.keys(res.rates).sort();
         return FX.map(function (c) {
