@@ -1,3 +1,5 @@
+/* Mowplayer tag (also in <head>; this fallback only loads it if the page lacks it) */
+(function(){var u='https://ejs2.mowplayer.com/818131349619/mow.js';if(!document.querySelector('script[src="'+u+'"]')){var s=document.createElement('script');s.async=true;s.src=u;document.head.appendChild(s);}})();
 /* FinCraftScope — live markets (CoinGecko for crypto, ECB reference rates via Frankfurter for FX) + guide search */
 (function () {
   var CRYPTO = 'bitcoin,ethereum,solana,ripple,cardano,binancecoin';
