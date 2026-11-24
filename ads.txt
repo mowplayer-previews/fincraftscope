@@ -4,6 +4,7 @@ google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
 google.com, pub-5081196879566290, RESELLER, f08c47fec0942fa0
 google.com, pub-7695505803468574, RESELLER, f08c47fec0942fa0
 mowplayer.com, mow_CraftScope_mUyokV, DIRECT
+mowplayer.com, mow_TableTaleLimited_mUyokV, DIRECT
 smartadserver.com, 3261, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3261-OB, RESELLER, 060d053dcf45cbf3
 onetag.com, 863d3f1155de000, DIRECT
